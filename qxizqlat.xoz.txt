@@ -1,0 +1,25 @@
+﻿Revert "Data Fitting"
+
+This reverts commit b70ccca9fba5855bdda22793c47159a9ca6c4888.
+
+# Conflicts:
+#	Chapter_1.ipynb
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# You are currently reverting commit b70ccca.
+#
+# Changes to be committed:
+#	deleted:    .ipynb_checkpoints/Chapter_1-checkpoint.ipynb
+#	deleted:    NODE.ipynb
+#
+# Changes not staged for commit:
+#	modified:   Chapter_1.ipynb
+#
+# Untracked files:
+#	Chapter_10.ipynb
+#
+
